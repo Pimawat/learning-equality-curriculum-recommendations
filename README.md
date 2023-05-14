@@ -5,3 +5,4 @@ The goal of this competition is to streamline the process of matching educationa
 
 Your work will enable students and educators to more readily access relevant educational content to support and supplement learning.
   
+  
